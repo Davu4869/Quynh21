@@ -1,0 +1,13 @@
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\bin\Debug\QLDIEM_NguyenTuyetQuynh.exe.config
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\bin\Debug\QLDIEM_NguyenTuyetQuynh.exe
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\bin\Debug\QLDIEM_NguyenTuyetQuynh.pdb
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\bin\Debug\System.Data.SqlClient.dll
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\bin\Debug\System.Data.SqlClient.xml
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.csproj.AssemblyReference.cache
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.Form1.resources
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.Properties.Resources.resources
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.csproj.GenerateResource.cache
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.csproj.CoreCompileInputs.cache
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.csproj.CopyComplete
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.exe
+D:\visual code\QLDIEM_NguyenTuyetQuynh\QLDIEM_NguyenTuyetQuynh\obj\Debug\QLDIEM_NguyenTuyetQuynh.pdb
